@@ -1,6 +1,5 @@
 Team members: Jerin Paul and Jerry Zhong
 Favorite programming language: Java
-<<<<<<< HEAD
 Team motto: Team work makes the dream work, since there is no i in team work.
 
  
